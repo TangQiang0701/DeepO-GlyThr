@@ -1,0 +1,10 @@
+window_id,source_id,site_position,mode,probability,prediction,top_attention_positions,sequence
+example_protein_1_30,example_protein_1,30,scan,0.852089,Positive,"20, 19, 18",SSSFSATSLAASRPGGSPRATTTGPVVTTSGTTTSSAPTTT
+example_protein_1_31,example_protein_1,31,scan,0.867436,Positive,"20, 19, 18",SSFSATSLAASRPGGSPRATTTGPVVTTSGTTTSSAPTTTT
+example_protein_1_32,example_protein_1,32,scan,0.963408,Positive,"17, 18, 16",SFSATSLAASRPGGSPRATTTGPVVTTSGTTTSSAPTTTTA
+example_protein_1_37,example_protein_1,37,scan,0.854643,Positive,"11, 12, 10",SLAASRPGGSPRATTTGPVVTTSGTTTSSAPTTTTATTTQP
+example_protein_1_38,example_protein_1,38,scan,0.491745,Negative,"10, 11, 9",LAASRPGGSPRATTTGPVVTTSGTTTSSAPTTTTATTTQPS
+example_protein_1_41,example_protein_1,41,scan,0.965424,Positive,"7, 6, 8",SRPGGSPRATTTGPVVTTSGTTTSSAPTTTTATTTQPSAAT
+example_protein_1_42,example_protein_1,42,scan,0.968795,Positive,"6, 7, 5",RPGGSPRATTTGPVVTTSGTTTSSAPTTTTATTTQPSAATT
+example_protein_1_43,example_protein_1,43,scan,0.967819,Positive,"5, 6, 4",PGGSPRATTTGPVVTTSGTTTSSAPTTTTATTTQPSAATTT
+example_window_1,example_window_1,21,window,0.973384,Positive,"-17, -14, -16",LEPLQESPRPTGVWKSREVATEGIRGHRKMVLYTLRAPRSP
