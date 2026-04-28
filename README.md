@@ -34,6 +34,8 @@ github/
 │   └── f5.png
 ├── examples/
 │   └── example.fasta
+|   └── train.fa
+|   └── test.fa
 ├── models/
 │   └── model.pt
 └── deepoglythr/
